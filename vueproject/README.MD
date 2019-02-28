@@ -4,6 +4,6 @@
 - cd appfront
 - npm install或者cnpm install
 - npm run dev 启动vue项目
-***安装依赖包***
+- ***安装依赖包***
 - cnpm install element-ui
 - cnpm install vue-resource
